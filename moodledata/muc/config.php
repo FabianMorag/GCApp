@@ -660,6 +660,18 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'core/course_image' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'datasource' => '\\core_course\\cache\\course_image',
+      'component' => 'core',
+      'area' => 'course_image',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
     'availability_completion/previous_cache' => 
     array (
       'mode' => 4,
@@ -693,6 +705,16 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'mod_assign/overrides' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'datasource' => '\\mod_assign\\cache\\overrides',
+      'component' => 'mod_assign',
+      'area' => 'overrides',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
     'mod_forum/forum_is_tracked' => 
     array (
       'mode' => 4,
@@ -716,11 +738,31 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'mod_lesson/overrides' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'datasource' => '\\mod_lesson\\cache\\overrides',
+      'component' => 'mod_lesson',
+      'area' => 'overrides',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
     'mod_lti/keyset' => 
     array (
       'mode' => 1,
       'component' => 'mod_lti',
       'area' => 'keyset',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'mod_quiz/overrides' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'datasource' => '\\mod_quiz\\cache\\overrides',
+      'component' => 'mod_quiz',
+      'area' => 'overrides',
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
