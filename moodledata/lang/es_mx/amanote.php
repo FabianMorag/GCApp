@@ -56,15 +56,15 @@ $string['importantinformationdescription'] = 'Para que el módulo funcione adecu
 $string['importantinformationheading'] = 'Información importante sobre instalación';
 $string['modifieddate'] = 'Modificado {$a}';
 $string['modulename'] = 'Archivo anotable';
-$string['modulename_help'] = 'Un archivo anotado es un recurso del curso (PDF) que los estudiantes pueden abrir en Amanote© para tomar notas (apuntes) claras y estructuradas en él.
+$string['modulename_help'] = 'Un archivo anotado es un recurso de la asignatura (PDF) que los estudiantes pueden abrir en Amanote© para tomar notas (apuntes) claras y estructuradas en él.
 
 Los estudiantes tiene la posibilidad de:
 
-* Abrir el recurso del curso en una nueva pestaña del navegador
-* Descargar el recurso del curso en su computadora
-* Abrir el recurso del curso en Amanote© y comenzar a tomar notas (escribir apuntes)
+* Abrir el recurso de la asignatura en una nueva pestaña del navegador
+* Descargar el recurso de la asignatura en su computadora
+* Abrir el recurso de la asignatura en Amanote© y comenzar a tomar notas (escribir apuntes)
 
-Cuando los estudiantes abren el recurso del curso en Amanote©, ellos tienen la habilidad para iniciar una toma de notas (escritura de apuntes). Sus notas están enlazadas a las diferentes páginas del documento. Más aun, ellos pueden enriquecer sus notas con anotaciones, dibujos, fórmulas, imágenes, resaltado en las imágenes, etc.
+Cuando los estudiantes abren el recurso de la asignatura en Amanote©, ellos tienen la habilidad para iniciar una toma de notas (escritura de apuntes). Sus notas están enlazadas a las diferentes páginas del documento. Más aun, ellos pueden enriquecer sus notas con anotaciones, dibujos, fórmulas, imágenes, resaltado en las imágenes, etc.
 
 Cuando los estudiantes guarden sus notas, éstas son guardadas adentro del recurso en su espacio personal. La siguiente vez que abran el recurso, ellos tendrán sus notas de vuelta.';
 $string['modulenameplural'] = 'Archivos anotables';
@@ -88,10 +88,10 @@ $string['saveinprivate_help'] = 'Guardar el archivo anotado en los archivos priv
 $string['servicenotavailable'] = 'Abrir en Amanote';
 $string['servicenotavailable_help'] = 'El servicio no está disponible. Por favor póngase en contacto con el administrador del sitio.';
 $string['showdate'] = 'Mostrar fecha de subido/modificado';
-$string['showdate_desc'] = '¿Mostrar fecha de subido/modificado en página del curso?';
+$string['showdate_desc'] = '¿Mostrar fecha de subido/modificado en página de la asignatura?';
 $string['showdate_help'] = 'Muestra los datos de subido/modificado junto a enlaces hacia el recurso.';
 $string['showsize'] = 'Mostrar tamaño';
-$string['showsize_desc'] = '¿Mostrar tamaño del archivo en página del curso?';
+$string['showsize_desc'] = '¿Mostrar tamaño del archivo en página de la asignatura?';
 $string['showsize_help'] = 'Muestra el tamaño del archivo, como por ejemplo \'3.1 MB\', junto a enlaces hacia el recurso.';
 $string['statisticsbutton'] = 'Abrir Analítica del Aprendizaje';
 $string['unexpectederror'] = 'Abrir en Amanote';

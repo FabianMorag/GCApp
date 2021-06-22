@@ -171,7 +171,7 @@ $string['autosubscribe'] = 'Subscripción automática al foro';
 $string['autosubscribeno'] = 'No, no me suscriba automáticamente a las discusiones del foro';
 $string['autosubscribeyes'] = 'Sí, cuando yo envíe una publicación, suscríbame a esa discusión del foro';
 $string['availability'] = 'Disponibilidad';
-$string['availablecourses'] = 'Cursos disponibles';
+$string['availablecourses'] = 'Asignaturas disponibles';
 $string['back'] = 'Atrás';
 $string['backto'] = 'Regresar a {$a}';
 $string['backtocourselisting'] = 'Volver a la lista de cursos';
@@ -388,7 +388,7 @@ $string['courselegacyfiles_help'] = 'El área de archivos del curso proporciona 
 Si utiliza este área para almacenar archivos de curso, puede exponerse a una serie de riesgos de privacidad y de seguridad, así como a la pérdida de archivos en los respaldos, en las importaciones de cursos o cada vez que el contenido del curso sea compartido o reutilizado. Por ello se recomienda que no utilice esta área a menos que realmente sepa lo que está haciendo.';
 $string['courselegacyfilesofcourse'] = 'Archivos de curso antiguos heredados: {$a}';
 $string['coursenotaccessible'] = 'Este curso no permite acceso público';
-$string['courseoverview'] = 'Vista general del curso';
+$string['courseoverview'] = 'Vista general de la asignatura';
 $string['courseoverviewfiles'] = 'Imagen del curso';
 $string['courseoverviewfiles_help'] = 'La imagen del curso es mostrada en la vista general del curso en el Tablero. Los tipos de archivos adicionales aceptados y si fuera más de un archivo pueden ser habilitados por un administrador del sitio. Si así fuera, estos archivos serán mostrados junto al resumen del curso en la página de la lista de los cursos.';
 $string['courseoverviewfilesext'] = 'Extensiones para archivos de la imagen del curso';

@@ -72,4 +72,4 @@ $string['recordinghdr'] = 'Grabaciones';
 $string['savechanges'] = 'Guardar';
 $string['starttime'] = 'Hora de inicio';
 $string['testconnection'] = 'Probar conexión';
-$string['usernotenrolled'] = 'Solamente los usuarios inscritos y que tengan un rol en este curso pueden unirse a esta reunión';
+$string['usernotenrolled'] = 'Solamente los usuarios inscritos y que tengan un rol en esta asignatura pueden unirse a esta reunión';

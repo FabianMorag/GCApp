@@ -197,7 +197,7 @@ Usted puede elegir mostrar actividades en la próxima semana, mes o más allá e
 Usted también puede mostrar ítems que están vencidos.';
 $string['tour3_title_dashboard'] = 'Su Tablero';
 $string['tour3_title_displayoptions'] = 'Mostrar opciones';
-$string['tour3_title_overview'] = 'Vista general del curso';
+$string['tour3_title_overview'] = 'Vista general de la asignatura';
 $string['tour3_title_recentcourses'] = 'Cursos accedidos recientemente';
 $string['tour3_title_starring'] = 'Marcar como favoritos y ocultar cursos';
 $string['tour3_title_timeline'] = 'Bloque de línea de tiempo';

@@ -26,5 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['courseoverview:view'] = 'Ver reporte de visión general del curso';
-$string['pluginname'] = 'Vista general del curso';
+$string['pluginname'] = 'Vista general de la asignatura';
 $string['privacy:metadata'] = 'El plugin de Vista general del curso no almacena ningún dato personal.';

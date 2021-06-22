@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['addtoquicklist'] = 'Añadir a listarápida';
-$string['admin_access_error'] = 'Usted no tiene permitido acceder a esta página, por favor póngase en contacto con su profesor o a su mánager; Usted necesita ser una persona que califica en un curso para poder personalizar el menú.';
+$string['admin_access_error'] = 'Usted no tiene permitido acceder a esta página, por favor póngase en contacto con su profesor o a su mánager; Usted necesita ser una persona que califica en una asignatura para poder personalizar el menú.';
 $string['admin_messageko'] = 'Error al registrar';
 $string['adminaddtool'] = 'Añadir una herramienta nueva';
 $string['adminaddtool_messagelibelleko'] = '<strong>¡Advertencia!</strong> La etiqueta del botón no está completada.';
@@ -86,7 +86,7 @@ $string['assignmentgradedsubject'] = '[Moodle] Tarea actualizada';
 $string['axis_add'] = 'Añadir un nuevo eje';
 $string['axis_label'] = 'Nombre';
 $string['basepalette'] = 'Herramientas básicas de anotación';
-$string['basepalette_desc'] = 'La paleta de herramienta de anotación básica está definida <a href="{$a}">aquí</a> para todo el sitio Moodle. Los profesores pueden entonces definir sus propias paletas de herramienta en sus cursos vía el menú de administración del curso.';
+$string['basepalette_desc'] = 'La paleta de herramienta de anotación básica está definida <a href="{$a}">aquí</a> para todo el sitio Moodle. Los profesores pueden entonces definir sus propias paletas de herramienta en sus asignaturas vía el menú de administración de la asignatura.';
 $string['black'] = 'Negro';
 $string['blue'] = 'Azul';
 $string['cannotopenpdf'] = 'No se puede abrir el PDF. El archivo puede estar corrupto, o en un formato no soportado.';

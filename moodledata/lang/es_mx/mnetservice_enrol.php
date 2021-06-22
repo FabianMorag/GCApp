@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['availablecourseson'] = 'Cursos disponibles en {$a}';
+$string['availablecourseson'] = 'Asignaturas disponibles en {$a}';
 $string['availablecoursesonnone'] = 'El host remoto <a href="{$a->hosturl}">{$a->hostname}</a> no ofrece ningún curso para nuestros usuarios.';
 $string['clientname'] = 'Cliente de inscripciones remotas';
 $string['clientname_help'] = 'Esta herramienta le permite Inscribir y des-inscribir (dar de baja)  usuarios de su instalación en los hosts remotos de Moodle que le permitan hacerlo a través del Plugin de inscripción remota MNet.';

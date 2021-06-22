@@ -120,7 +120,7 @@ Después de que se hayan procesado las asignaciones los profesores podrán:
 * Obtener un CSV de las asignaciones.';
 $string['modulenameplural'] = 'Formatos de Asignación';
 $string['no_allocations'] = 'No se encontraron asignaciones';
-$string['noallocationforms'] = 'No se encontraron Formatos de Asignación para este curso';
+$string['noallocationforms'] = 'No se encontraron Formatos de Asignación para esta asignatura';
 $string['noformdatapassed'] = 'No se pasaron datos. No se hizo actualización.';
 $string['nopermission'] = 'Usted no puede ser asignado al formato; sus opciones no han sido guardadas';
 $string['not_active'] = 'El formato de asignación no está disponible, por favor, inténtelo más tarde.';
@@ -194,7 +194,7 @@ $string['restrictionsexceeded'] = 'Usted ha excedido el número de restricciones
 $string['restrictionsmodified'] = 'Restricciones actualizadas';
 $string['reviewmode'] = 'Revisar';
 $string['roleselect'] = 'Rol a ser asignado';
-$string['roleselect_help'] = 'Seleccione el rol que se les asignará a los usuarios en este curso al emplear este formato.';
+$string['roleselect_help'] = 'Seleccione el rol que se les asignará a los usuarios en esta asignatura al emplear este formato.';
 $string['saved'] = 'Sus selecciones han sido guardadas.';
 $string['savefail'] = 'Sus opciones no pudieron ser guardadas en Moodle';
 $string['search:activity'] = 'Formato de asignación - información de actividad';

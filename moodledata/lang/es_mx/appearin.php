@@ -34,7 +34,7 @@ $string['appearinname_help'] = 'Este es el contenido de la herramientita de ayud
 $string['invalidroom'] = 'Se especificó un nombre de sala inválido. Debe ser alfanumérico (los caracteres de -  y _ también están permitidos)';
 $string['modulename'] = 'appearin';
 $string['modulename_help'] = '<p>Este módulo incrusta una sala appearin en su pagina Moodle.</p>
-<p>Las salas son asignadas de acuerdo al idnumber del curso, el nombre_corto o el nombre_completo, pero Usted es libre de elegir su propio nombre.e.</p>
+<p>Las salas son asignadas de acuerdo al idnumber de la asignatura, el nombre_corto o el nombre_completo, pero Usted es libre de elegir su propio nombre.e.</p>
 <p>A menos que Usted cree una cuenta con Appear.in, Usted no puede reservar un nombre de a sala, por lo que se le recomienda que lo haga.</p>';
 $string['modulenameplural'] = 'appearins';
 $string['pluginadministration'] = 'administración de appearin';
@@ -42,5 +42,5 @@ $string['pluginname'] = 'appearin';
 $string['privacy:metadata:externalpurpose'] = 'Este plugin envía datos externamente a appear.in. No almacena datos localmente.';
 $string['privacy:metadata:room'] = 'El nombre de sala pasado al servicio appear.in.';
 $string['room'] = 'Sala';
-$string['room_help'] = 'Las salas son asignadas de acuerdo al idnumber del curso, el nombre_corto o el nombre_completo, pero Usted es libre de elegir su propio nombre.';
+$string['room_help'] = 'Las salas son asignadas de acuerdo al idnumber de la asignatura, el nombre_corto o el nombre_completo, pero Usted es libre de elegir su propio nombre.';
 $string['roomid'] = 'ID de sala';
